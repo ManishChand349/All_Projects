@@ -10,14 +10,14 @@ const ProjectsList = () => {
     {
       id: 1,
       title: "Pokedex pokemon",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      content: "Building a Pokedex API website involves creating a platform that allows users to access and retrieve information about various Pokemon..",
       git: "https://github.com/ManishChand349/pokedex-pokemon",
       url: "https://pokedex-pokemon-smoky.vercel.app/",
     },
     {
       id: 2,
       title: "MarketE",
-      content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      content: "E Commerce website is an online platform that allows users to Buy Cloths.",
       git: "https://github.com/ManishChand349/MarketE",
       url: "https://market-e-manishchand349.vercel.app/",
     },
