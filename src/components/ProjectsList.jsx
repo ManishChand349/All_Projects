@@ -67,7 +67,7 @@ const ProjectsList = () => {
         </div>
       </div>
     </div>
-    <div className="bg-gray-100 p-8">
+    <div className="bg-gray-100 p-8  mt-1">
       {/* Recent Blogs Section */}
       <div className="mb-8 mx-auto max-w-7xl ">
         <h2 className="text-5xl font-semibold mb-4  text-center">React Components</h2>
