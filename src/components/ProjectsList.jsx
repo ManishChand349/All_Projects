@@ -10,14 +10,14 @@ const ProjectsList = () => {
     {
       id: 1,
       title: "Pokedex pokemon",
-      content: "Building a Pokedex API website involves creating a platform that allows users to access and retrieve information about various Pokemon..",
+      content: "React Js , APIs , Css",
       git: "https://github.com/ManishChand349/pokedex-pokemon",
       url: "https://pokedex-pokemon-smoky.vercel.app/",
     },
     {
       id: 2,
       title: "MarketE",
-      content: "E Commerce website is an online platform that allows users to Buy Cloths.",
+      content: "React js , Styled-Components",
       git: "https://github.com/ManishChand349/MarketE",
       url: "https://market-e-manishchand349.vercel.app/",
     },
@@ -29,7 +29,7 @@ const ProjectsList = () => {
     {
       id: 1,
       title: "College Site",
-      content:"Website involves creating a platform",
+      content: "React js , Styled-Components",
       git: "https://github.com/ManishChand349/CollegeSite",
       url: "https://college-site-one.vercel.app/",
     },
@@ -40,8 +40,6 @@ const ProjectsList = () => {
   ];
   return (
     <>
-
-   
     <div className="bg-gray-100 p-8">
       {/* Recent Blogs Section */}
       <div className="mb-8 mx-auto max-w-7xl ">
